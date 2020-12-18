@@ -1,7 +1,8 @@
 # Rapport_Bussiness_Intelligence
-
-Eval google data studio : Rapport de données de la chaine YouTube d'E.BBSensei <br/>
-Type de données : YouTube Analytics<br/>
+<ul>
+<li>Eval google data studio : Rapport de données de la chaine YouTube d'E.BBSensei</li>
+<li>Type de données : YouTube Analytics</li>
+</ul>
 <br/><br/>
 
 # Lien vers mon rapport :
