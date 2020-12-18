@@ -2,6 +2,7 @@
 <ul>
 <li>Eval google data studio : Rapport de données de la chaine YouTube d'E.BBSensei</li>
 <li>Type de données : YouTube Analytics</li>
+<li>Presentation de chaine : Contenu sur le jeu mobile Bleach Brave Souls</li>
 </ul>
 <br/><br/>
 
