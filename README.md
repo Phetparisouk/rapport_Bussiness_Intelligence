@@ -9,8 +9,8 @@ Type de données : YouTube Analytics<br/>
 <br/><br/>
 
 # Pourquoi j'ai choisi ces données
-Malgré le fait que les données ne sont pas volumineux, j'ai quand même choisi ce dataset car il s'agit de donnée personnel dont je trouve interéssant de l'appliquer avec ce dont j'ai appris durant ce module. <br/>
-Il s'agit également d'une opportunité pour ameliorer ma chaine qui est en descente actuellement et de voir les qualités et défauts de celui-ci tout en ayant une "bonne note" (je l'espere), mais surtout de valider le module Business Intelligence. C'est ce que l'on appelle la stratégie d'une pierre 2 coups.
+Malgré le fait que les données ne sont pas volumineux, j'ai quand même choisi ce dataset car il s'agit de données qui me sera utile personnellement et que je trouve interéssant de l'appliquer avec ce dont j'ai appris durant ce module. <br/>
+Il s'agit également d'une opportunité pour ameliorer ma chaine dont j'ai un peu délaissé par manque de temps actuellement et de voir les qualités et défauts de celui-ci tout en ayant une "bonne note" (je l'espere), mais surtout de valider le module Business Intelligence. C'est ce que l'on appelle la stratégie d'une pierre 2 coups.
 <br/><br/>
 
 # Voilà comment j'ai pu accéder aux données
